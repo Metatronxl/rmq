@@ -3,6 +3,9 @@
 
 ---
 
+**UPDATE**：If you want to support alibaba Redis Cluster. you can switch to the lateset version `rmq/v6` which based
+on the `rmq/v4` and support redis cluster key dispatch.
+
 **Note**: We recently updated rmq to expose Redis errors instead of panicking.
 This is a major change as almost all functions now return errors. It's
 recommended to switch to the latest version `rmq/v4` so rmq won't crash your
