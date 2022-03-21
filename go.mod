@@ -1,4 +1,4 @@
-module github.com/metatronxl/rmq/v5
+module github.com/metatronxl/rmq/v5.1
 
 go 1.13
 
